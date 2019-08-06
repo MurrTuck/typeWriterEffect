@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:200, 100,400');
+@import url('https://fonts.googleapis.com/css?family=Long+Cang&display=swap');
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Long Cang', sans-serif;
     height: 100vh;
-    background: #333 url('chicagoskyline.jpg') no-repeat center center / cover;
+    background: #333 url('maxresdefault.jpg') no-repeat center center / cover;
     color: rgb(255, 255, 255);
     overflow: hidden;
 }
